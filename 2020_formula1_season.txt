@@ -1,0 +1,20 @@
+44 | Lewis Hamilton | 0 | Mercedes | 0
+77 | Valtteri Bottas | 0 | Mercedes | 0
+5 | Sebastian Vettel | 0 | Ferrari | 0
+16 | Charles Leclerc | 0 | Ferrari | 0
+33 | Max Verstappen | 0 | Red Bull Racing | 0
+23 | Alexander Albon | 0 | Red Bull Racing | 0
+55 | Carlos Sainz | 0 | Mclaren | 0
+4 | Lando Norris | 0 | Mclaren | 0
+3 | Daniel Ricciardo | 0 | Renault | 0
+31 | Estaban Ocon | 0 | Renault | 0
+10 | Pierre Gasly | 0 | AlphaTauri | 0
+26 | Daniil Kvyat | 0 | AlphaTauri | 0
+11 | Sergio Perez | 0 | Racing Point | 0
+18 | Lance Stroll | 0 | Racing Point | 0
+7 | Kimi Räikkönen | 0 | Alfa Romeo Racing | 0
+99 | Antonio Giovinazzi | 0 | Alfa Romeo Racing | 0
+8 | Romain Grosjean | 0 | Haas F1 Team | 0
+20 | Kevin Magnussen | 0 | Haas F1 Team | 0
+63 | George Russel | 0 | Williams | 0
+6 | Nicholas Latifi | 0 | Williams | 0
